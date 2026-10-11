@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <rect width="40" height="40" rx="10" fill="#10b981"/>
+  <!-- Cart base -->
+  <path d="M8 11h3.5l3.5 14h13l3-9H15" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wheels -->
+  <circle cx="18" cy="28.5" r="1.5" fill="white"/>
+  <circle cx="26" cy="28.5" r="1.5" fill="white"/>
+  <!-- Check mark overlay -->
+  <path d="M22 18l2.5 2.5 4-4" stroke="#a7f3d0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
